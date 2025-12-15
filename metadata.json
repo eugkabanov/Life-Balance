@@ -1,0 +1,5 @@
+{
+  "name": "The Impossible Triangle",
+  "description": "A visual interactive demonstration of the 'Pick Two' dilemma (Time, Comfort, Savings) where selecting a third option randomly forces one of the existing options to deselect.",
+  "requestFramePermissions": []
+}
